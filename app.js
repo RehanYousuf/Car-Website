@@ -5,19 +5,19 @@ var cars = {
                 name: "Honda Civic Sedan",
                 price: "$25,350",
                 location: "Karachi",
-                img: "Images/Honda/cars/Honda_Civic-Sedan.png",
+                img: "images/Honda/cars/Honda_Civic-Sedan.png",
             },
             civicAccordSedan: {
                 name: "Honda Civic Accord Sedan",
                 price: "$29,610",
                 location: "Hyderabad",
-                img: "Images/Honda/cars/Honda_Civic-Accord-Sedan.avif"
+                img: "images/Honda/cars/Honda_Civic-Accord-Sedan.avif"
             },
             civicSiSedan: {
                 name: "Honda Civic Si Sedan",
                 price: "$27,500",
                 location: "Karachi",
-                img: "Images/Honda/cars/Honda_Civic-Si-Sedan.avif"
+                img: "images/Honda/cars/Honda_Civic-Si-Sedan.avif"
             }
         },
         Electrified: {
@@ -25,13 +25,13 @@ var cars = {
                 name: "Honda Civic Accord Hybrid",
                 price: "$26,670",
                 location: "Karachi",
-                img: "Images/Honda/electrified/Honda_Civic-Accord-Hybrid.avif",
+                img: "images/Honda/electrified/Honda_Civic-Accord-Hybrid.avif",
             },
             hondaCRVHybrid: {
                 name: "Honda CR-V Hybrid",
                 price: "$1,500",
                 location: "Hyderabad",
-                img: "Images/Honda/electrified/Honda_CR-V-Hybrid.png"
+                img: "images/Honda/electrified/Honda_CR-V-Hybrid.png"
             },
         },
         Hatchback: {
@@ -39,13 +39,13 @@ var cars = {
                 name: "Honda Civic Hatchback",
                 price: "$30,650",
                 location: "Karachi",
-                img: "Images/Honda/hatchback/Honda_Civic-Hatchback.png",
+                img: "images/Honda/hatchback/Honda_Civic-Hatchback.png",
             },
             hondaCivicTypeR: {
                 name: "Honda Civic Type-R",
                 price: "$44,890",
                 location: "Lahore",
-                img: "Images/Honda/electrified/Honda_CR-V-Hybrid.png"
+                img: "images/Honda/electrified/Honda_CR-V-Hybrid.png"
             }
         },
         SUV: {
@@ -53,25 +53,25 @@ var cars = {
                 name: "Honda CR-V",
                 price: "$28,410",
                 location: "Karachi",
-                img: "Images/Honda/suv/Honda_CR-V.png",
+                img: "images/Honda/suv/Honda_CR-V.png",
             },
             hondaHRV: {
                 name: "Honda HR-V",
                 price: "$27,653",
                 location: "Lahore",
-                img: "Images/Honda/suv/Honda_HR-V.avif"
+                img: "images/Honda/suv/Honda_HR-V.avif"
             },
             hondaPassport: {
                 name: "Honda Passport",
                 price: "$41,100",
                 location: "Karachi",
-                img: "Images/Honda/suv/Honda_Passport.avif"
+                img: "images/Honda/suv/Honda_Passport.avif"
             },
             hondaPilot: {
                 name: "Honda Pilot",
                 price: " $52,030",
                 location: "Hyderabad",
-                img: "Images/Honda/suv/Honda_Pilot.png"
+                img: "images/Honda/suv/Honda_Pilot.png"
             }
         },
         Minivans: {
@@ -79,19 +79,19 @@ var cars = {
                 name: "Honda CR-V",
                 price: "$28,410",
                 location: "Karachi",
-                img: "Images/Honda/minivans/Honda_CR-V.png",
+                img: "images/Honda/minivans/Honda_CR-V.png",
             },
             hondaRidgeline: {
                 name: "Honda Ridgeline",
                 price: "$43,570",
                 location: "Multan",
-                img: "Images/Honda/minivans/Honda_Ridgeline.avif"
+                img: "images/Honda/minivans/Honda_Ridgeline.avif"
             },
             hondaOdyssey: {
                 name: "Honda Odyssey",
                 price: "$41,210",
                 location: "Sialkot",
-                img: "Images/Honda/minivans/Honda-Odyssey.webp"
+                img: "images/Honda/minivans/Honda-Odyssey.webp"
             }
         },
     },
@@ -101,19 +101,19 @@ var cars = {
                 name: "Toyota Camry",
                 price: "$31,190",
                 location: "Karachi",
-                img: "Images/Toyota/cars/Toyota_Camry.png",
+                img: "images/Toyota/cars/Toyota_Camry.png",
             },
             toyotaCorollaX: {
                 name: "Toyota Corolla-X",
                 price: "$26,053",
                 location: "Multan",
-                img: "Images/Toyota/cars/Toyota_Corolla-X.png"
+                img: "images/Toyota/cars/Toyota_Corolla-X.png"
             },
             toyotaYaris: {
                 name: "Toyota Yaris",
                 price: "$20,180",
                 location: "Sialkot",
-                img: "Images/Toyota/cars/Toyota_Yaris.png"
+                img: "images/Toyota/cars/Toyota_Yaris.png"
             }
         },
         SUV: {
@@ -121,49 +121,49 @@ var cars = {
                 name: "Toyota Corolla Cross",
                 price: " $40,316",
                 location: "Karachi",
-                img: "Images/Toyota/suv/Toyota_Corolla-Cross.png",
+                img: "images/Toyota/suv/Toyota_Corolla-Cross.png",
             },
             toyotaFortuner: {
                 name: "Toyota Fortuner",
                 price: "$62,945",
                 location: "Multan",
-                img: "Images/Toyota/suv/Toyota_Fortuner.png"
+                img: "images/Toyota/suv/Toyota_Fortuner.png"
             },
             toyotaFortunerLegender: {
                 name: "Toyota Fortuner Legender",
                 price: "$62,945",
                 location: "Sialkot",
-                img: "Images/Toyota/suv/Toyota_Fortuner-Legender.png"
+                img: "images/Toyota/suv/Toyota_Fortuner-Legender.png"
             },
             toyotaHilux: {
                 name: "Toyota Hilux",
                 price: "$46,064",
                 location: "Karachi",
-                img: "Images/Toyota/suv/Toyota_Hilux.png",
+                img: "images/Toyota/suv/Toyota_Hilux.png",
             },
             toyotaHiluxRevo: {
                 name: "Toyota Hilux Revo",
                 price: "$50,427",
                 location: "Multan",
-                img: "Images/Toyota/suv/Toyota_Hilux-Revo.png"
+                img: "images/Toyota/suv/Toyota_Hilux-Revo.png"
             },
             toyotaHiluxRevoRocco: {
                 name: "Toyota Hilux Revo Rocco",
                 price: "$56,588",
                 location: "Sialkot",
-                img: "Images/Toyota/suv/Toyota_Hilux-Revo-Rocco.png"
+                img: "images/Toyota/suv/Toyota_Hilux-Revo-Rocco.png"
             },
             toyotaHiluxSingleCabin: {
                 name: "Toyota Hilux Single Cabin",
                 price: "$23,849",
                 location: "Karachi",
-                img: "Images/Toyota/suv/Toyota_Hilux-Single-Cabin.png",
+                img: "images/Toyota/suv/Toyota_Hilux-Single-Cabin.png",
             },
             toyotaLandCruiser: {
                 name: "Toyota Land Cruiser",
                 price: "$85,165",
                 location: "Multan",
-                img: "Images/Toyota/suv/Toyota_Land-Cruiser.webp"
+                img: "images/Toyota/suv/Toyota_Land-Cruiser.webp"
             },
 
         }
@@ -174,25 +174,25 @@ var cars = {
                 name: "Hyundai Elantra",
                 price: "$20,500",
                 location: "Karachi",
-                img: "Images/Hundayi/cars/Hundayi_Elantra.png",
+                img: "images/Hundayi/cars/Hundayi_Elantra.png",
             },
             hundayiI10: {
                 name: "Hyundai i10",
                 price: "$2,981",
                 location: "Multan",
-                img: "Images/Hundayi/cars/Hundayi_i10.png",
+                img: "images/Hundayi/cars/Hundayi_i10.png",
             },
             hundayiTheNewSonata: {
                 name: "Hyundai The New Sonata",
                 price: "$25,250",
                 location: "Sialkot",
-                img: "Images/Hundayi/cars/Hundayi_The-New-Sonata.png"
+                img: "images/Hundayi/cars/Hundayi_The-New-Sonata.png"
             },
             hundayiVeloster: {
                 name: "Hyundai Veloster",
                 price: "$32,500",
                 location: "Karachi",
-                img: "Images/Hundayi/cars/Hundayi_Veloster.png",
+                img: "images/Hundayi/cars/Hundayi_Veloster.png",
             }
         },
         Eco: {
@@ -200,31 +200,31 @@ var cars = {
                 name: "Hyundai Elantra Hybrid",
                 price: "$24,400",
                 location: "Karachi",
-                img: "Images/Hundayi/eco/Hundayi_elantra-hybrid.png",
+                img: "images/Hundayi/eco/Hundayi_elantra-hybrid.png",
             },
             hundayiI30Hybrid: {
                 name: "Hyundai i30 Hybrid",
                 price: "$56,480",
                 location: "Multan",
-                img: "Images/Hundayi/eco/Hundayi_I30-Hybrid.png"
+                img: "images/Hundayi/eco/Hundayi_I30-Hybrid.png"
             },
             hundayiIoniq6: {
                 name: "Hyundai Ioniq6",
                 price: " $57,000",
                 location: "Sialkot",
-                img: "Images/Hundayi/eco/Hundayi_Ioniq6.png"
+                img: "images/Hundayi/eco/Hundayi_Ioniq6.png"
             },
             hundayiIoniqEelectric: {
                 name: "Hyundai Ioniq Eelctric",
                 price: "$41,450 ",
                 location: "Karachi",
-                img: "Images/Hundayi/eco/Hundayi_Ioniq-Eelectric.png",
+                img: "images/Hundayi/eco/Hundayi_Ioniq-Eelectric.png",
             },
             hundayiNexo: {
                 name: "Hyundai Nexo",
                 price: "$61,470",
                 location: "Karachi",
-                img: "Images/Hundayi/eco/Hundayi_Nexo.png",
+                img: "images/Hundayi/eco/Hundayi_Nexo.png",
             }
         },
         SUV: {
@@ -232,25 +232,25 @@ var cars = {
                 name: "Hyundai Creta",
                 price: "$6,651",
                 location: "",
-                img: "Images/Hundayi/suv/Hundayi_creta.png",
+                img: "images/Hundayi/suv/Hundayi_creta.png",
             },
             hyundaiSantaFe: {
                 name: "Hyundai Santa Fe",
                 price: "$28,200",
                 location: "Multan",
-                img: "Images/Hundayi/suv/Hundayi_santa-fe.png"
+                img: "images/Hundayi/suv/Hundayi_santa-fe.png"
             },
             hyundaiTucson: {
                 name: "Hyundai Tucson",
                 price: "$28,050",
                 location: "Sialkot",
-                img: "Images/Hundayi/suv/Hundayi_tucson.png"
+                img: "images/Hundayi/suv/Hundayi_tucson.png"
             },
             hyundaiVenue: {
                 name: "Hyundai Venue",
                 price: "$21,250",
                 location: "Karachi",
-                img: "Images/Hundayi/suv/Hundayi_venue.png",
+                img: "images/Hundayi/suv/Hundayi_venue.png",
             }
         }
     },
@@ -262,7 +262,7 @@ function allCarsShow() {
     allCars.innerHTML = "";
     allCars.innerHTML = `
         <div class="heading-div" id="heading-div2">
-            <img src="Images/pak-wheels-logo.svg" alt="" class="hyundai-heading-img">
+            <img src="images/pak-wheels-logo.svg" alt="" class="hyundai-heading-img">
         </div>
     `;
     for (var main in cars) {2
@@ -299,7 +299,7 @@ function brandCars(brand) {
     if(brand == "Honda"){
         allCars.innerHTML = `
             <div class="heading-div" id="heading-div2">
-                <img src="Images/Honda/honda-logo.jpg" alt="" class="honda-heading-img">
+                <img src="images/Honda/honda-logo.jpg" alt="" class="honda-heading-img">
             </div>
         `;
     }
@@ -307,7 +307,7 @@ function brandCars(brand) {
     else if(brand == "Toyota"){
         allCars.innerHTML = `
             <div class="heading-div" id="heading-div2">
-                <img src="Images/Toyota/Toyota-Logo.png" alt="" class="hyundai-heading-img">
+                <img src="images/Toyota/Toyota-Logo.png" alt="" class="hyundai-heading-img">
             </div>
         `;
     }
@@ -315,7 +315,7 @@ function brandCars(brand) {
     else if(brand == "Hyundai"){
         allCars.innerHTML = `
             <div class="heading-div" id="heading-div2">
-                <img src="Images/Hyundai/Hyundai-Logo.png" alt="" class="hyundai-heading-img">
+                <img src="images/Hyundai/Hyundai-Logo.png" alt="" class="hyundai-heading-img">
             </div>
         `;
     }
